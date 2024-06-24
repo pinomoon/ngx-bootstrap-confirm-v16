@@ -11,9 +11,9 @@
   },
   "keywords": ["bootstrap","confirmation", "alert","confirm", "modal", "popup", "angular", "angular-module"],
   "peerDependencies": {
-    "@angular/common": "~11.0.0",
-    "@angular/core": "~11.0.0",
-    "ngx-bootstrap": "^6.2.0",
+    "@angular/common": "~16.2.12",
+    "@angular/core": "~16.2.12",
+    "ngx-bootstrap": "^12.0.0",
     "rxjs": "~6.6.3"
   }
 }
