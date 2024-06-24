@@ -28,18 +28,6 @@
             "tsConfig": "projects/ngx-bootstrap-confirm/tsconfig.spec.json",
             "karmaConfig": "projects/ngx-bootstrap-confirm/karma.conf.js"
           }
-        },
-        "lint": {
-          "builder": "@angular-devkit/build-angular:tslint",
-          "options": {
-            "tsConfig": [
-              "projects/ngx-bootstrap-confirm/tsconfig.lib.json",
-              "projects/ngx-bootstrap-confirm/tsconfig.spec.json"
-            ],
-            "exclude": [
-              "**/node_modules/**"
-            ]
-          }
         }
       }
     }},
